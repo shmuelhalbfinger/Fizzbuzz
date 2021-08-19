@@ -17,7 +17,7 @@ public class Fizzbuzz {
     }
 
     public static void main(String[] args) {
-        for (int i = 1; i <= 150; i++) {
+        for (int i = 1; i <= 200; i++) {
             printFizzbuzz(i);
             System.out.println(",");
         }
